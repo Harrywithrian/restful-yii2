@@ -1,0 +1,9 @@
+=====================================================
+TUTORIAL
+=====================================================
+# Pretty Url
+	- config/web.php
+	- web/.htaccess
+
+# Disable csrf-token (not recomended)
+	- controllers/tutorial/peopleController.php
